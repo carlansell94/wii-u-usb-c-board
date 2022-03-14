@@ -26,7 +26,7 @@ KiCAD render:
 
 Dock with added switch:
 
-![Dock with switch](dock-with-switch.png?raw=true "Dock with added switch")
+![Dock with switch](dock-with-switch.webp?raw=true "Dock with added switch")
 
 ## KiCAD
 The files in this project were created using KiCAD 6, which introduced a new file format not compatible with older versions. Ensure you are using KiCAD 6 if you wish to open the files.

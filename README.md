@@ -6,6 +6,8 @@ Features:
 * Board is a near drop-in replacement for the original - only a small amount of sanding inside the dock is required.
 * No alteration to the outside of the dock is necessary (unless you add a switch).
 
+A switchless version is also available, which removes the need to bridge the switch pads should you choose not to use one.
+
 Included in this repository are the KiCAD files for this design. If you're only interested in having the board manufactured, gerbers are available under 'releases'.
 
 Parts List:
